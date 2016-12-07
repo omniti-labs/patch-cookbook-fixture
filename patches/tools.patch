@@ -1,0 +1,13 @@
+commit 5eee3aee40d87100f301a13c9d9943bf522d7113
+Author: Clinton Wolfe <clinton@omniti.com>
+Date:   Wed Dec 7 12:45:53 2016 -0500
+
+    Make change to file to create diff
+
+diff --git a/filepatch-url/tools/favorite_tool b/filepatch-url/tools/favorite_tool
+index fba1fa7..19c98bd 100644
+--- a/filepatch-url/tools/favorite_tool
++++ b/filepatch-url/tools/favorite_tool
+@@ -1 +1 @@
+-hammer
++hammers made of glass
