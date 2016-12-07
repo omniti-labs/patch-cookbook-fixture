@@ -4,10 +4,10 @@ Date:   Wed Dec 7 12:45:53 2016 -0500
 
     Make change to file to create diff
 
-diff --git a/filepatch-url/tools/favorite_tool b/filepatch-url/tools/favorite_tool
+diff --git a/url/tools/favorite_tool b/url/tools/favorite_tool
 index fba1fa7..19c98bd 100644
---- a/filepatch-url/tools/favorite_tool
-+++ b/filepatch-url/tools/favorite_tool
+--- a/url/tools/favorite_tool
++++ b/url/tools/favorite_tool
 @@ -1 +1 @@
 -hammer
 +hammers made of glass
